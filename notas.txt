@@ -1,0 +1,9 @@
+COLORES PRINCIPALES
+1. Primary (principal, que destaca en la app):
+--#2ecc71
+
+2. Dark (menus de estado):
+--#27ae60
+
+3. Accent(resalta en diferentes controles):
+--#34495e

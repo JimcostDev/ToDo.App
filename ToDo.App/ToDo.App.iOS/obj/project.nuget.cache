@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KxLLsWR0bH/la5O6JqSjkhKS6Di0v0U8HnpeOMPLCJqjoajF6XEedUxn61gr1fWlhNBC6e8VC/YTxenvPd+Kbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ronaldo Jimenez\\Desktop\\Cursos\\Udemy\\Xamarin.Forms\\ToDo.App\\ToDo.App.iOS\\ToDo.App.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

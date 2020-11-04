@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDo.App.Android", "ToDo.Ap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDo.App.iOS", "ToDo.App.iOS\ToDo.App.iOS.csproj", "{3D90EBFA-7B54-4208-8785-4131AC471EFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDo.App", "ToDo.App\ToDo.App.csproj", "{12A18570-0F20-4523-A91C-DBFDFE090DD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDo.App", "ToDo.App\ToDo.App.csproj", "{12A18570-0F20-4523-A91C-DBFDFE090DD1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
