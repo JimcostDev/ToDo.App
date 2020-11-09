@@ -2,8 +2,10 @@ C:\Users\Ronaldo Jimenez\Desktop\Cursos\Udemy\Xamarin.Forms\ToDo.App\ToDo.App\bi
 C:\Users\Ronaldo Jimenez\Desktop\Cursos\Udemy\Xamarin.Forms\ToDo.App\ToDo.App\bin\Debug\netstandard2.0\ToDo.App.dll
 C:\Users\Ronaldo Jimenez\Desktop\Cursos\Udemy\Xamarin.Forms\ToDo.App\ToDo.App\bin\Debug\netstandard2.0\ref\ToDo.App.dll
 C:\Users\Ronaldo Jimenez\Desktop\Cursos\Udemy\Xamarin.Forms\ToDo.App\ToDo.App\bin\Debug\netstandard2.0\ToDo.App.pdb
+C:\Users\Ronaldo Jimenez\Desktop\Cursos\Udemy\Xamarin.Forms\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\ToDo.App.csprojAssemblyReference.cache
 C:\Users\Ronaldo Jimenez\Desktop\Cursos\Udemy\Xamarin.Forms\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\App.xaml.g.cs
-C:\Users\Ronaldo Jimenez\Desktop\Cursos\Udemy\Xamarin.Forms\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Ronaldo Jimenez\Desktop\Cursos\Udemy\Xamarin.Forms\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\Views\AddPage.xaml.g.cs
+C:\Users\Ronaldo Jimenez\Desktop\Cursos\Udemy\Xamarin.Forms\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
 C:\Users\Ronaldo Jimenez\Desktop\Cursos\Udemy\Xamarin.Forms\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\ToDo.App.AssemblyInfoInputs.cache
 C:\Users\Ronaldo Jimenez\Desktop\Cursos\Udemy\Xamarin.Forms\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\ToDo.App.AssemblyInfo.cs
 C:\Users\Ronaldo Jimenez\Desktop\Cursos\Udemy\Xamarin.Forms\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\ToDo.App.csproj.CoreCompileInputs.cache
