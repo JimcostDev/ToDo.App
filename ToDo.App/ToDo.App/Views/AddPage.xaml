@@ -4,10 +4,11 @@
              x:Class="ToDo.App.Views.AddPage"
              Title="Agregar Tarea">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+        <StackLayout Padding="15">
+            <Label Text="Nombre *" TextColor="#27ae60" FontSize="Medium"></Label>
+            <Entry x:Name="nombre"></Entry>
+            <Label Text="Descripción" TextColor="#27ae60" FontSize="Medium"></Label>
+            <Editor x:Name="descripcion" HeightRequest="120"></Editor>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
