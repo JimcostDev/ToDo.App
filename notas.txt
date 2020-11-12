@@ -7,3 +7,6 @@ COLORES PRINCIPALES
 
 3. Accent(resalta en diferentes controles):
 --#34495e
+
+********Extensiones (NuGets)***************
+--sqlite-net-pcl-> ToDo.App
