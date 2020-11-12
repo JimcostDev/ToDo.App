@@ -8,9 +8,9 @@
     </ContentPage.ToolbarItems>
     <ContentPage.Content>
         <StackLayout Padding="15">
-            <Label Text="Nombre *" TextColor="#27ae60" FontSize="Medium"></Label>
+            <Label Text="Nombre *" TextColor="{StaticResource ColorPrimary}" FontSize="Medium"></Label>
             <Entry x:Name="nombre"></Entry>
-            <Label Text="Descripción" TextColor="#27ae60" FontSize="Medium"></Label>
+            <Label Text="Descripción" TextColor="{StaticResource ColorPrimary}" FontSize="Medium"></Label>
             <Editor x:Name="descripcion" HeightRequest="120"></Editor>
         </StackLayout>
     </ContentPage.Content>
