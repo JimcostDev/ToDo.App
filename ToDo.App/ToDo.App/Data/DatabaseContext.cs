@@ -1,6 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using SQLite;
+using System.Threading.Tasks;
+using ToDo.App.Models;
 
 namespace ToDo.App.Data
 {
@@ -13,6 +13,11 @@ namespace ToDo.App.Data
             Connection = new SQLiteAsyncConnection(dbPath);
 
             Connection.CreateTableAsync<ToDoItem>().Wait();
+        }
+        //Saving an item
+        public async Task<int> InsertItemAsync(ToDoItem item)
+        {
+            return await Connection.InsertAsync(item);
         }
     }
 }

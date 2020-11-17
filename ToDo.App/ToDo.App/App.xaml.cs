@@ -20,6 +20,8 @@ namespace ToDo.App
         private void InitializeDatabase()
         {
             var folderApp = Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData);
+            var dbPath = System.IO.Path.Combine(folderApp, "ToDo.db3");
+            Context = new DatabaseContext(dbPath);
         }
 
         protected override void OnStart()
