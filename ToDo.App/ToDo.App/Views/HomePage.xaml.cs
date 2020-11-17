@@ -16,6 +16,10 @@ namespace ToDo.App.Views
         {
             InitializeComponent();
         }
+        protected override void OnAppearing()
+        {
+            base.OnAppearing();
+        }
 
         private async void ToolbarItem_Clicked(object sender, EventArgs e)
         {
