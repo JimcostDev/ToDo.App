@@ -25,5 +25,10 @@ namespace ToDo.App.Data
         {
             return await Connection.Table<ToDoItem>().ToListAsync();
         }
+        //delete items
+        public async Task<int> DeleteItemAsync(ToDoItem item) 
+        {
+            return await Connection.DeleteAsync(item);
+        }
     }
 }
